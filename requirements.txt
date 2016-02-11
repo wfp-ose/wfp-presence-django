@@ -1,0 +1,4 @@
+django
+django-autocomplete-light
+git+ssh://git@github.com/wfp-ose/lsib-django.git#egg=lsib-django
+git+ssh://git@github.com/wfp-ose/gaul-django.git#egg=gaul-django
